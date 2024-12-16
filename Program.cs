@@ -98,6 +98,8 @@ else if (avg < 50)
 {
     Console.WriteLine("Fail");
     Console.WriteLine("test");
+    Console.WriteLine("test");
+    Console.WriteLine("test");
 }
 else 
 {
