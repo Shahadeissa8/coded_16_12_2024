@@ -97,6 +97,7 @@ else if (avg < 50)
 // another solution: else if (avg < 50 && avg >=0)
 {
     Console.WriteLine("Fail");
+    Console.WriteLine("test");
 }
 else 
 {
